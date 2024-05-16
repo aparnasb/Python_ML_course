@@ -1,0 +1,4 @@
+corpus=['this is the data science class with SL',
+       'AI is the next class',
+       'and this is third class',
+       'and this is fourth class']
